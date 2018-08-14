@@ -1,5 +1,5 @@
 # ACM-Code-of-Ethics-1-Page-PDF
-_A 1-page PDF that contains the new ACM Code of Ethics_. 
+Are you a computer scientist? Software engineer? Work with them? Do you want a snazzy poster you can put up on your office's wall to remind everyone just how much power they actually have? If so... grab an abbreviated, poster-size version of the ACM Code of Ethics. Seriously, ethics are important.
 
 Now with the official blessing of the ACM: 
 *This abstracted version of the ACM Code of Ethics is distributed with permission of the ACM Committee on Professional Ethics.*
